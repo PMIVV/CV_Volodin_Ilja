@@ -2,5 +2,10 @@
   box-sizing: border-box;
 }/*# sourceMappingURL=style.css.map */
 body{
-  background-color: #bbb;
+  background-color: cornflowerblue;
+}
+
+.title{
+  color: blueviolet;
+  font-size: 48px;
 }
