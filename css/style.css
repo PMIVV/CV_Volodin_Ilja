@@ -2,10 +2,10 @@
   box-sizing: border-box;
 }/*# sourceMappingURL=style.css.map */
 body{
-  background-color: rgb(242, 244, 247);
+  background-color: rgb(240, 77, 172);
 }
 
 .title{
-  color: blueviolet;
+  color: rgb(64, 205, 248);
   font-size: 48px;
 }
